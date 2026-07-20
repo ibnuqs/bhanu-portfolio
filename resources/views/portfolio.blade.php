@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bhanu Almer Arganto | Data Analyst Portfolio</title>
+    <title>Bhanu Almer Arganto | Portfolio</title>
 
     <!-- SEO Meta Tags -->
     <meta name="description" content="Portfolio of Bhanu Almer Arganto, a Bachelor of Information Systems graduate from Gunadarma University, specializing in Data Analysis and Machine Learning.">
@@ -57,7 +57,6 @@
         <div class="hero-text fade-up-init">
             <p class="hero-subtitle">Hello, I'm</p>
             <h1 class="hero-title">Bhanu Almer Arganto</h1>
-            <h2 class="hero-tagline">Data Analyst & Machine Learning Enthusiast</h2>
             <p class="description">
                 Fresh Graduate in Information Systems from Gunadarma University with expertise in information technology (IT), skilled in data analysis, data processing, and analytical reporting.
             </p>
